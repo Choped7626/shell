@@ -117,3 +117,8 @@ Una vez iniciada la shell, puedes consultar la ayuda detallada de cada comando u
 ### Salida
 
 - **quit / exit / bye**: Finaliza la ejecución de la shell.
+
+## Autores
+
+*   **Daniel Puñal Díaz** - [dani2631](https://github.com/dani2631)
+*   **Mario Lamas Angeriz** - [Choped7626](https://github.com/Choped7626)
